@@ -1,0 +1,690 @@
+.flex1{
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.text-center{
+    text-align: center;
+}
+.flex2{
+    background-color: rgb(148, 138, 144);
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex3{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex4{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex5{
+    background-color: #a6ff00;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex6{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex7{
+    background-color: #ff0080;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex8{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex9{
+    background-color: #7700ff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex10{
+    background-color: #425858;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex11{
+    background-color: #5dee7c;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex12{
+    background-color: #00ff40;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex13{
+    background-color: #117c23;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex14{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex15{
+    background-color: #003cff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex16{
+    background-color: #a57d7d;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex17{
+    background-color: #00ff9d;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex18{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex19{
+    background-color: #a6ff00;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex20{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex21{
+    background-color: #f700ff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex22{
+    background-color: #6200ff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex23{
+    background-color: #b899b9;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex24{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex25{
+    background-color: #7700ff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex26{
+    background-color: #b3ff00ce;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex27{
+    background-color: #885c60;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex28{
+    background-color: #ff7b00;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex29{
+    background-color: #008cff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex30{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex31{
+    background-color: #0004ff7a;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex32{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex33{
+    background-color: #084227;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex34{
+    background-color: #18066b;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex35{
+    background-color: #222e3f;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex36{
+    background-color: #0e423b;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex37{
+    background-color: #989b99;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex38{
+    background-color: #3b1d1d;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex39{
+    background-color: #05301580;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex40{
+    background-color: #084227;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex41{
+    background-color: #40104d;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex42{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex43{
+    background-color: #708d92;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex44{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex45{
+    background-color: #ff3c00;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex46{
+    background-color: #98ffcf;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex47{
+    background-color: #ff84ad;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex48{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex49{
+    background-color: #df3341;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex50{
+    background-color: #18af68;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex51{
+    background-color: #77b6cf;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex52{
+    background-color: #3d0620;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex53{
+    background-color: #11da7c;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex54{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex55{
+    background-color: #006eff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex56{
+    background-color: #343534;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex57{
+    background-color: #30423a;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex58{
+    background-color: #ffb5e9;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex59{
+    background-color: #0aff33;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex60{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex61{
+    background-color: #bdff07;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex62{
+    background-color: #084227;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex63{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex64{
+    background-color: #635d0c;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex65{
+    background-color: #684141;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex66{
+    background-color: #85a5fc;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex67{
+    background-color: #4e0eff;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex68{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex69{
+    background-color: #423408;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex70{
+    background-color: #695252;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex71{
+    background-color: #7bf8be;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex72{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex73{
+    background-color: #9effd2;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex74{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex75{
+    background-color: #420808;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex76{
+    background-color: #4a8a26;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex77{
+    background-color: #757575;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex78{
+    background-color: #474725;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex79{
+    background-color: #122b01;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex80{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex81{
+    background-color: #084227;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex82{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex83{
+    background-color: #ff6738;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex84{
+    background-color: #57472e;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex85{
+    background-color: #3b682e;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex86{
+    background-color: #975100;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex87{
+    background-color: #ffb1ee;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex88{
+    background-color: #4d4a4a;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex89{
+    background-color: #084238;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex90{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex91{
+    background-color: #084227;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex92{
+    background-color: #ff0040;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex93{
+    background-color: #08420d;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex94{
+    background-color: #7c79a7;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex95{
+    background-color: #443232;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex96{
+    background-color: #8b482d;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex97{
+    background-color: #774a68;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex98{
+    background-color: #ff0000;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex99{
+    background-color: #16036b;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
+.flex100{
+    background-color: #e0e993;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}.flex101{
+    background-color: #617238;
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    float: left;
+}
